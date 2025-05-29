@@ -25,3 +25,12 @@ Key Features:
 - Allows user to bet depending on how much credit they have available.
 - Earn winnings based on what set of symbols appeared.
 - A list of random symbols, with different chances of being picked.
+
+Project 4: ToDoList
+Created: 2/03/25
+Summary: Allows users to inout a grocery list and make changes to it.
+Key Features: 
+- Allows users to input items to a list
+- Allows changes to the list
+- List can be sorted alphabetically
+- total number of items on the list can be displayed
